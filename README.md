@@ -29,7 +29,7 @@ Preprocess test data, predict using the trained model, and visualize the results
 
 
 ## Program
-#### Name: Dario G
+#### Name: DARIO G
 #### Register Number: 212222230027
 ```
 import numpy as np
